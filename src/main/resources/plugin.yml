@@ -1,0 +1,8 @@
+name: Bedclutch
+version: '${project.version}'
+main: me.revu.bedclutch.Bedclutch
+api-version: 1.8
+commands:
+  hit:
+    description: hit 3
+    usage: /hit
